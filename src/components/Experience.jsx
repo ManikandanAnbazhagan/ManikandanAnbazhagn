@@ -79,7 +79,7 @@ function Experience() {
 
               <div className="pt-6 border-t border-gray-100 flex flex-wrap gap-2 mt-auto">
                 {exp.skills.map((skill, idx) => (
-                  <span key={idx} className="bg-gray-100 text-black border border-gray-200 px-3 py-1.5 rounded-lg text-xs font-bold tracking-wider">
+                  <span key={idx} className="bg-gray-100 text-black border border-gray-200 px-3 py-1.5 rounded-lg text-xs font-bold tracking-wider group-hover:bg-black group-hover:text-white group-hover:border-black transition-all duration-300">
                     {skill}
                   </span>
                 ))}

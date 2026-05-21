@@ -11,7 +11,7 @@ const projects = [
       iconBg: 'bg-gray-100 text-black shadow-inner group-hover:bg-black group-hover:text-white',
       title: 'text-black group-hover:text-black transition-colors duration-300',
       text: 'text-gray-700',
-      tag: 'bg-gray-100 text-black border border-gray-200 group-hover:bg-white group-hover:shadow-sm'
+      tag: 'bg-gray-100 text-black border border-gray-200 group-hover:bg-black group-hover:text-white group-hover:border-black transition-all duration-300'
     }
   },
   {
@@ -24,7 +24,7 @@ const projects = [
       iconBg: 'bg-gray-100 text-black shadow-inner group-hover:bg-black group-hover:text-white',
       title: 'text-black group-hover:text-black transition-colors duration-300',
       text: 'text-gray-700',
-      tag: 'bg-gray-100 text-black border border-gray-200 group-hover:bg-white group-hover:shadow-sm'
+      tag: 'bg-gray-100 text-black border border-gray-200 group-hover:bg-black group-hover:text-white group-hover:border-black transition-all duration-300'
     }
   }
 ];
