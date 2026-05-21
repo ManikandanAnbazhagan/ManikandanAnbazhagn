@@ -16,8 +16,8 @@ const projects = [
   },
   {
     title: 'Enterprise Data & Reporting Platform',
-    description: 'Developed backend modules using Spring Boot for comprehensive billing and accounting operations. Integrated robust APIs with MySQL to manage financial data securely and optimized SQL queries, improving overall report generation performance by 25%.',
-    skills: ['Spring Boot', 'MySQL', 'JasperSoft'],
+    description: 'Developed full-stack web applications using Angular and Spring Boot for comprehensive billing and accounting operations. Integrated robust APIs with MySQL to manage financial data securely and optimized SQL queries, improving overall report generation performance by 25%.',
+    skills: ['Spring Boot', 'Angular', 'MySQL', 'JasperSoft'],
     theme: {
       cardWrapper: 'bg-black shadow-md shadow-gray-200 group-hover:shadow-lg',
       blob: 'hidden',
