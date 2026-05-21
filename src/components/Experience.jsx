@@ -57,10 +57,10 @@ function Experience() {
               key={index}
               data-aos="fade-up"
               data-aos-delay={index * 150}
-              className="bg-white rounded-3xl border border-gray-200 p-8 shadow-sm hover:shadow-md hover:border-black transition-all duration-300 flex flex-col h-full group active:scale-[0.98]"
+              className="bg-white rounded-3xl border border-gray-200 p-8 shadow-sm hover:shadow-md hover:border-black hover:-translate-y-3 transition-all duration-500 flex flex-col h-full group active:scale-[0.98]"
             >
               <div className="mb-6">
-                <h3 className="text-xl font-bold text-black mb-1 group-hover:text-blue-600 transition-colors duration-300 tracking-wide">{exp.title}</h3>
+                <h3 className="text-xl font-bold text-black mb-1 tracking-wide">{exp.title}</h3>
                 <h4 className="text-lg font-bold text-gray-800 mb-3">{exp.company}</h4>
                 <div className="flex flex-col gap-1 text-sm text-gray-600 mb-4 font-medium">
                   <span className="flex items-center gap-2"><i className="pi pi-calendar text-gray-400"></i> {exp.date}</span>
