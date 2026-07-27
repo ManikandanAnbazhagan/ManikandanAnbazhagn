@@ -32,7 +32,7 @@ const experiences = [
   {
     title: 'Software Trainee',
     company: 'We Fix Software Solution',
-    date: 'Sep 2021 – Mar 2022',
+    date: 'Dec 2020 – Mar 2022',
     location: 'Kumbakonam',
     details: [
       "Developed and maintained web applications using Java, Spring Boot, and Hibernate.",

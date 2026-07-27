@@ -19,12 +19,12 @@ function Hero() {
         </h1>
         
         <p data-aos="fade-up" data-aos-delay="300" className="text-base md:text-lg text-gray-700 max-w-2xl leading-relaxed mb-8 font-medium">
-          A dedicated <span className="font-black text-black">Java Full Stack Developer</span> with 3.2 years of experience designing, developing, and deploying scalable server-side applications. Proficient in building high-performance REST APIs, optimizing databases, and integrating CI/CD pipelines.
+         <p className="summary">A dedicated <span className="font-black text-black">Java Full Stack Developer</span> with 4 years of experience designing, developing, and deploying scalable server-side applications. Proficient in building high-performance REST APIs, optimizing databases, and integrating CI/CD pipelines.</p>
         </p>
         
         <div className="flex flex-wrap justify-center gap-4 md:gap-6 mb-10">
           <div className="flex flex-col items-center bg-gray-100 px-8 py-5 rounded-2xl border border-gray-200 shadow-sm">
-            <span className="text-3xl md:text-4xl font-black tracking-tight text-black">3.2+</span>
+            <span className="text-3xl md:text-4xl font-black tracking-tight text-black">4+</span>
             <span className="text-xs font-bold text-gray-600 uppercase tracking-widest mt-1">Years Exp</span>
           </div>
           <div className="flex flex-col items-center bg-gray-100 px-8 py-5 rounded-2xl border border-gray-200 shadow-sm">
